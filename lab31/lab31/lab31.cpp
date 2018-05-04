@@ -2,7 +2,6 @@
 //
 
 #include "stdafx.h"
-#include "stdlib.h"
 int zero(int*, int);
 
 int main() {
