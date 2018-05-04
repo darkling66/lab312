@@ -3,7 +3,7 @@
 
 Отключить для языка : английский
 #include "stdafx.h"
-#include "stdlib.h"
+
 #define N 4
 #define M 4
 
